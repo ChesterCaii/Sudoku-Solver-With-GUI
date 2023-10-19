@@ -2,7 +2,7 @@
 
 This program serves as a Sudoku solver, employing the backtracking algorithm. It offers both a graphical user interface (GUI) and a text-based interface.
 
-To play Sudoku, launch the GUI by running GUI.py."
+To play Sudoku, launch the GUI by running GUI.py 
 
 # How to Play
 Select a cell and use your keyboard to input a number for penciling. 
