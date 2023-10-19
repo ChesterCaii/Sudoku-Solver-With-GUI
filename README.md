@@ -2,7 +2,7 @@
 
 This program serves as a Sudoku solver, employing the backtracking algorithm. It offers both a graphical user interface (GUI) and a text-based interface.
 
-To play Sudoku, clone this repository into VsCode, go to GUI.py, and press run.
+To test it out, clone this repository into VsCode, go to GUI.py, and press run.
 
 # How to Play
 Select a cell and use your keyboard to input a number for penciling. 
