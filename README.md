@@ -10,5 +10,5 @@ To confirm the value, simply press ENTER within the selected cell.
 To erase a penciled number, click DEL. 
 When you're ready to solve the puzzle, press SPACE, relax, and observe the algorithm in action.
 
-
-[Watch Demo](https://www.youtube.com/watch?v=9z58bDQUrrY&ab_channel=ChesterCai)
+# Demo
+[Watch Here](https://www.youtube.com/watch?v=9z58bDQUrrY&ab_channel=ChesterCai)
