@@ -11,4 +11,4 @@ To erase a penciled number, click DEL.
 When you're ready to solve the puzzle, press SPACE, relax, and observe the algorithm in action.
 
 
-[https://www.youtube.com/watch?v=9z58bDQUrrY&ab_channel=ChesterCai]
+(Watch Demo)[https://www.youtube.com/watch?v=9z58bDQUrrY&ab_channel=ChesterCai]
